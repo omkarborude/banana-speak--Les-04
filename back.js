@@ -1,20 +1,20 @@
 // get all with queryselector
 var txtinput = document.querySelector("#txt-input")
-var btnTranslate = document.querySelector("#btn-Translate")
+var btnTranslate = document.querySelector("#btn-translate")
 var outputdiv = document.querySelector("#output")
 
 // then define server 
-var serverURL = "https://api.funtranslations.com/translate/minion.json";
+var serverURL = "https://api.funtranslations.com/translate/dothraki.json";
 
 
 // then define Function geturl 
 function getTranslationURL(input) {
-    return serverURL = "?" + "text=" + input
+    return serverURL + "?" + "text=" + input
 }
 
 // then define function erroehandle
 function errorHandler(error) {
-    console.log("error occured", error)
+    console.log("error occured", error);
     alert("server is down , please try later !! ")
 }
 
