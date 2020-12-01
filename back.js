@@ -4,7 +4,7 @@ var btnTranslate = document.querySelector("#btn-translate")
 var outputdiv = document.querySelector("#output")
 
 // then define server 
-var serverURL = "https://api.funtranslations.com/translate/dothraki.json";
+var serverURL = "https://api.funtranslations.com/translate/minion.json";
 
 
 // then define Function geturl 
