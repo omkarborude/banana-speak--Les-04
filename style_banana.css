@@ -11,7 +11,17 @@
     padding: 20px;
     text-align: center;
 }
-
+img{
+    float: left;
+    margin-left: 60px;
+    margin-right: -120px;
+    
+}
+.mirimg{
+    float: right;
+    margin-right: 60px;
+    margin-left: -120px;
+}
 textarea{
     margin:  auto;
     height: 150px;
@@ -23,7 +33,7 @@ textarea{
 
 button{
     padding: 10px;
-    width: 150px;
+    width: 250px;
     margin-top: 20px;
     background-color: yellow;
     font-weight: 600;
@@ -34,7 +44,10 @@ button:hover{
 }
 
 #output{
+    margin: auto;
+    background-color: white;
     height: 150px;
+    width: 90%;
     border: 2px solid red;
     margin-top: 20px;
     padding: 20px;
