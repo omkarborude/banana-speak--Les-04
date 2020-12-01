@@ -1,0 +1,57 @@
+.main{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    
+}
+
+.nav{
+    height: 80px;
+    background-color: yellow;
+    padding: 20px;
+    text-align: center;
+}
+
+textarea{
+    margin:  auto;
+    height: 150px;
+    padding: 20px;
+    margin-top: 30px;
+    width: 90%;
+    border: 2px solid black;
+}
+
+button{
+    padding: 10px;
+    width: 150px;
+    margin-top: 20px;
+    background-color: yellow;
+    font-weight: 600;
+}
+button:hover{
+    background-color: red;
+    color: white;
+}
+
+#output{
+    height: 150px;
+    border: 2px solid red;
+    margin-top: 20px;
+    padding: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
