@@ -1,3 +1,6 @@
+
+    
+
 .main{
     text-align: center;
     width: 50%;
@@ -22,13 +25,31 @@ img{
     margin-right: 60px;
     margin-left: -120px;
 }
+.in{
+    padding: 20px;
+    height: 200px;
+    margin-top: 20px;;
+    
+}
+.img2{
+    margin-top: 40px;
+    margin-left: 10px;
+    height: 55%;
+    
+}
+.img3{
+    margin-top: 40px;
+    margin-right: 10px;
+    height: 55%;
+    float: right;
+}
 textarea{
-    margin:  auto;
+    margin-right: -175px;
     height: 150px;
     padding: 20px;
-    margin-top: 30px;
-    width: 90%;
-    border: 2px solid black;
+    margin-top: 10px;
+    width: 50%;
+    border: 3px solid black;
 }
 
 button{
@@ -53,6 +74,8 @@ button:hover{
     padding: 20px;
     
 }
+    
+
 
 /* Responsive */
 
@@ -64,11 +87,8 @@ button:hover{
         margin: auto;
         
     }
-    
-   
-    
+      
 }
-
 
 
 
