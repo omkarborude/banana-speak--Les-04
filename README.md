@@ -14,7 +14,7 @@ https://banana-speak-les-04.netlify.app/
 ## What i use for this App
 
 * Vanilla JS
-* funTranslation 
+* funTranslation's : API
 * Minion API
 * Netlify  (for Hosting)
 
