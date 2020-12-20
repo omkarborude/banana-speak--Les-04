@@ -18,7 +18,7 @@ function errorHandler(error) {
     alert("server is down , please try later !! ")
 }
 
-//then define function clickHandler 
+//then define function lickHandler 
 function clickHandler() {
     var inputText = txtinput.value;
     
